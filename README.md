@@ -21,6 +21,16 @@
 # NAT features
 
 it is a process by a router to replace the original IP addr of both the Source & Destination with different IP addr. 
+
+# NAT can resolve the Problems:
+
+1. to reuse(重複使用) IP addr to resolve the global ip addr space depletion(過度消耗).
+
+
+2. to solve the overlapping (same) private IP address allocates to 2 companies which of which merge with the other.
+
+
+3. to be LB for specific service from server, make user to perseive/recognize（感知認知到）they are connecting with a single server, but multi-servers in reality.
                                           
                                                 
 # NAT Table and its Entries
