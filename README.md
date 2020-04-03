@@ -16,6 +16,12 @@
                                                 
                                                 
                                           Outside_HostN       Outside_HostN-1
+                                          
+                                          
+# NAT features
+
+it is a process by a router to replace the original IP addr of both the Source & Destination with different IP addr. 
+                                          
                                                 
 # NAT Table and its Entries
 
